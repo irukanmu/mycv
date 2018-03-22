@@ -1,1 +1,1 @@
-this is test to manage my cv on github
+This is the test to manage my cv on github.
